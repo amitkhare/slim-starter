@@ -1,7 +1,7 @@
 {
-    "name": "codecourse/slender",
-    "description": "A slender starter structure for Slim",
-    "keywords": ["framework", "slim", "codecourse"],
+    "name": "amitkhare/slim-starter",
+    "description": "A starter structure for Slim",
+    "keywords": ["framework", "slim", "amitkhare"],
     "license": "MIT",
     "type": "project",
     "require": {
